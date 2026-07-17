@@ -1,0 +1,20 @@
+name,category,note
+sugar,SWEETENER,Common sweetener
+sucrose,SWEETENER,Common sweetener
+high-fructose corn syrup,SWEETENER,Common sweetener
+dextrose,SWEETENER,Common sweetener
+aspartame,SWEETENER,Artificial sweetener
+acesulfame potassium,SWEETENER,Artificial sweetener
+strawberry,NATURAL,Plant ingredient
+oat,NATURAL,Whole grain
+soy lecithin,GMO_DERIVED,Often derived from soy products
+corn syrup,SWEETENER,Common sweetener
+sodium benzoate,PRESERVATIVE,Preservative
+artificial flavor,ARTIFICIAL,Artificial additive
+citric acid,PRESERVATIVE,Preservative
+wheat,ALLERGEN,Common allergen
+milk,ALLERGEN,Dairy allergen
+peanut,ALLERGEN,Common allergen
+xanthan gum,CONTROVERSIAL,Common thickener
+natural flavor,NATURAL,Natural flavoring
+organic cane sugar,SWEETENER,Organic sweetener
