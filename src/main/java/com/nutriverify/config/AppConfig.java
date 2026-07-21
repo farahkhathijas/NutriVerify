@@ -7,8 +7,11 @@ public final class AppConfig {
     private AppConfig() {}
 
     public static final String APP_NAME = "NutriVerify";
+    public static final String APP_VERSION = "2.0";
+    public static final String APP_TAGLINE = "Beyond the Printed Claim.";
     public static final String DATASET_PATH = "src/main/resources/ingredients.csv";
     public static final String HISTORY_PATH = "data/history.csv";
+    public static final String USERS_PATH = "data/users.csv";
     public static final String EXPORTS_DIRECTORY = "exports";
 
     public static final double CLAIM_WEIGHT = 0.50;

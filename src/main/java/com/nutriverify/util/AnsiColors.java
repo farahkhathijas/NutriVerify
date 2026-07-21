@@ -20,4 +20,5 @@ public final class AnsiColors {
     public static String danger(String value) { return RED + value + RESET; }
     public static String info(String value) { return CYAN + value + RESET; }
     public static String accent(String value) { return BLUE + value + RESET; }
+    public static String bold(String value) { return BOLD + value + RESET; }
 }
